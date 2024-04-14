@@ -44,9 +44,9 @@ git clone https://github.com/lokeshchoudhary24/Task_Management_Web_Application-.
    
 3. Navigate to the project directory:
    
-   3. Install dependencies:
+   . Install dependencies:
   
-    i. npm install
+    . npm install
    
 
 4. Start the React development server:
