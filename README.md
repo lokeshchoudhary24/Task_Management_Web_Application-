@@ -24,22 +24,25 @@ This application allows users to manage tasks. Users can register, log in, view 
 
 ### Backend (Spring Boot)
 
-1. Clone the backend repository:
+1. Clone the repository:
+
+git clone https://github.com/lokeshchoudhary24/Task_Management_Web_Application-.git
    
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    
-3. Start the Spring Boot server:
+4. Start the Spring Boot server:
 
    * mvn spring-boot:run *
    
 
 ### Frontend (React)
 
-1. Clone the frontend repository:
+1. Clone the  repository:
+  
+ git clone https://github.com/lokeshchoudhary24/Task_Management_Web_Application-.git   
    
-   
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    
    3. Install dependencies:
   
@@ -148,6 +151,8 @@ This application allows users to manage tasks. Users can register, log in, view 
   - Endpoint: `DELETE /tasks/{id}`
   - No request body required.
   - Response Status: `204 No Content`
+ 
+  
 
 ## Database Configuration
 Make sure MySQL is running locally.
@@ -163,8 +168,7 @@ spring.datasource.password=your_db_password
 ## Testing Endpoints
 Use tools like Postman  to test each API endpoint with sample requests and observe the responses.
 
-## Credentials
-Provide credentials for database access and API usage as necessary.
+
 
 
 
